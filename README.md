@@ -1,4 +1,4 @@
-# Yalantis
+# Flask Api
 ## General info
 Project is used flask for creating endpoints. I used pattern MVC. Project is without a view 'cause it is not necessary.
 ## Technologies
