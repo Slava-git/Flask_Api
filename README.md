@@ -1,6 +1,6 @@
 # Yalantis
 ## General info
-Project is used flask for creating endpoints. I tried to use pattern that names MVC. Project is without a view 'cause it is not necessary.
+Project is used flask for creating endpoints. I used pattern that names MVC. Project is without a view 'cause it is not necessary.
 ## Technologies
 List is shown below:
 * python 3.7
