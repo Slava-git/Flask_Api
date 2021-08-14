@@ -1,6 +1,13 @@
 # Flask Api
 ## General info
-Project is used flask for creating endpoints. I used pattern MVC. Project is without a view 'cause it is not necessary.
+I built a CRUD (Create, Read, Update, Delete) courses management app.
+Project is used flask for creating endpoints. I used a pattern MVC. Project is without a view 'cause it is not necessary.
+App has the following features:
+* create course;
+* get course by id or name and date;
+* get all courses;
+* delete course;
+* update course;
 ## Technologies
 List is shown below:
 * python 3.7
@@ -8,7 +15,7 @@ List is shown below:
 * SQLAlchemy 1.3.13
 * SqLite3
 ## How to run project
-If you already installed requirements, the next step will be execute run.py. After that localhost starts. I used postman for sending requests.
+If you already installed requirements, the next step will be execute run.py. I used postman for sending requests.
 ## Some tests
 Get all courses
 ![get_list_courses](images/get_list_courses.png)
