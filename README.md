@@ -1,7 +1,7 @@
 # Flask Api
 ## General info
 I built a CRUD (Create, Read, Update, Delete) courses management app.
-Project is used flask for creating endpoints. I used a pattern MVC. Project is without a view 'cause it is not necessary.
+Flask is used in project for creating endpoints. I used a pattern MVC. Project is without a view 'cause it is not necessary.
 App has the following features:
 * create course;
 * get course by id or name and date;
