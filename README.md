@@ -14,7 +14,7 @@ App has the following features:
 * SQLAlchemy 1.3.13
 * SqLite3
 ## Run project
-`python run.py` 
+`python run.py`   
 I used postman for sending requests.
 ## Tests
 Get all courses
