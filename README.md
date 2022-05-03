@@ -24,17 +24,13 @@ Add course
 
 ![add_course](images/add_course.png)
 
-Erorr while adding course
+Erorr when added wrong course
 
 ![error_add_course](images/error_add_course.png)
 
 Get course by id
 
 ![get_course_by_id](images/get_course_by_id.png)
-
-Error with wrong id
-
-![error_get_course_by_id](images/error_get_course_by_id.png)
 
 Get course by name and date
 
