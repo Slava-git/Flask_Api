@@ -1,7 +1,7 @@
 # Flask Api
 ## General info
-There was built a CRUD courses management app.
-Flask is used for creating endpoints. I used a pattern MVC. Project does not have a view because it is not necessary.
+There was built a CRUD courses management app based on MVC pattern.
+Flask is used for creating endpoints. Project does not have a view because it is not necessary.
 App has the following features:
 * create course;
 * get course by id or name and date;
