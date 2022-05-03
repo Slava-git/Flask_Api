@@ -32,17 +32,9 @@ Get course by name and date
 
 ![get_course_by_name_and_date](images/get_course_by_name_and_date.png)
 
-Error with wrong name
-
-![error_get_course_by_name_and_date](images/error_get_course_by_name_and_date.png)
-
-Update operation
+Updating
 
 ![update](images/update_1.png)
-
-After update 
-
-![update_after](images/update_2.png)
 
 Deleting 
 
