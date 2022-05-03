@@ -24,10 +24,6 @@ Add course
 
 ![add_course](images/add_course.png)
 
-Erorr when added wrong course
-
-![error_add_course](images/error_add_course.png)
-
 Get course by id
 
 ![get_course_by_id](images/get_course_by_id.png)
